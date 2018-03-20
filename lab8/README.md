@@ -1,0 +1,7 @@
+The test accuracy for initial test is 0.83908
+
+The test accuracy after adding a dense layer of 64 relu units and dropout layer is 0.822
+
+The test accuracy after adding Convolution layer followed by a relu non-linearity and global max pooling is 0.80544
+
+The test accuracy after adding an LSTM layer in place of the convolution layer is 0.82192
